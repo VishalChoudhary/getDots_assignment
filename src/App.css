@@ -1,0 +1,16 @@
+/* Make the entire page background white */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff; /* white background */
+  font-family: Arial, sans-serif;
+}
+
+/* App container centers everything */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

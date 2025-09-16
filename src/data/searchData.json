@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "React.js Guide" },
+  { "id": 2, "title": "Frontend Developer Roadmap" },
+  { "id": 3, "title": "JavaScript Animations" },
+  { "id": 4, "title": "CSS Transitions and Transforms" },
+  { "id": 5, "title": "Node.js Basics" },
+  { "id": 6, "title": "UI/UX Design Principles" }
+]
